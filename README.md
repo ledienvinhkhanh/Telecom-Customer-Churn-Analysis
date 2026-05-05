@@ -4,23 +4,24 @@
 Customer churn is a critical metric for telecommunications companies. This project aims to identify the key drivers of customer attrition and build a predictive model to identify high-risk customers. By combining **SQL exploration**, **Python Machine Learning**, and **Power BI visualization**, the project provides actionable insights to improve customer retention and revenue stability.
 
 ## 📁 Project Structure
-
+``` 
 CUSTOMER CHURN ANALYSIS/
 │
 ├── 01_SQL Scripts/
-│ └── Data_Exploration.sql
+│   └── Data_Exploration.sql
 │
 ├── 02_Python Analysis/
-│ └── Analysis.ipynb
-│ └── Churn_Predictions_For_PowerBI.csv
+│   ├── Analysis.ipynb
+│   └── Churn_Predictions_For_PowerBI.csv
 │
 ├── 03_BI Dashboard/
-│ └── Churn_Dashboard.pbix
+│   └── Churn_Dashboard.pbix
 │
 ├── 04_Insight Report/
-│ └── Telecom_Customer_Churn_Prediction_Analysis.pdf
+│   └── Telecom_Customer_Churn_Prediction_Analysis.pdf
 │
-└── README.md        
+└── README.md
+```
 
 ## 🛠️ Tools & Technologies
 - SQL: Data cleaning, window functions, and business metric aggregation.
