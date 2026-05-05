@@ -6,16 +6,21 @@ Customer churn is a critical metric for telecommunications companies. This proje
 ## 📁 Project Structure
 
 CUSTOMER CHURN ANALYSIS/
+│
 ├── 01_SQL Scripts/
-│   └── Data_Exploration.sql 
+│ └── Data_Exploration.sql
+│
 ├── 02_Python Analysis/
-│   └── Analysis.ipynb  
-    └── Churn_Predictions_For_PowerBI.csv          
+│ └── Analysis.ipynb
+│ └── Churn_Predictions_For_PowerBI.csv
+│
 ├── 03_BI Dashboard/
-│   └── Churn_Dashboard.pbix            
+│ └── Churn_Dashboard.pbix
+│
 ├── 04_Insight Report/
-│   └── Telecom_Customer_Churn_Prediction_Analysis.pdf     
-└── README.md         
+│ └── Telecom_Customer_Churn_Prediction_Analysis.pdf
+│
+└── README.md        
 
 ## 🛠️ Tools & Technologies
 - SQL: Data cleaning, window functions, and business metric aggregation.
