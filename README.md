@@ -1,4 +1,4 @@
-# 📞 Telco Customer Churn Analysis & Prediction
+# 📞 Telecom Customer Churn Analysis & Prediction
 
 ## 📌 Project Overview
 Customer churn is a critical metric for telecommunications companies. This project aims to identify the key drivers of customer attrition and build a predictive model to identify high-risk customers. By combining **SQL exploration**, **Python Machine Learning**, and **Power BI visualization**, the project provides actionable insights to improve customer retention and revenue stability.
